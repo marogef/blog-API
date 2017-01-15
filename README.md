@@ -1,4 +1,3 @@
-Shopping list v4
+Blog API
 ================
-
-https://github.com/Thinkful-Ed/node-shopping-list-v4
+Building a CRUD api for a blogging platform.
